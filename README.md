@@ -19,16 +19,12 @@ Here are some ideas to get you started:
 
 [![Ne10-Neon's github stats](https://github-readme-stats.vercel.app/api?username=Ne10-Neon)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# Pronouns
-Please, get it right bro, He/Him.
-
 # Languages
-JavaScript [a little bit]
-Python
+- JavaScript [a little bit]
+- Python
 
 # Languages I want to learn/learning
-C
-C#
-C++
-Java
+- C
+- C#
+- C++
+- Java
