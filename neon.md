@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Ne10-Neon's github stats](https://github-readme-stats.vercel.app/api?username=Ne10-Neon)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne10-Neon&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne10-Neon&theme=dark)
 
 
 # Languages I know
