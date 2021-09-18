@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 [![Ne10-Neon's github stats](https://github-readme-stats.vercel.app/api?username=Ne10-Neon)](https://github.com/anuraghazra/github-readme-stats)
 
-# Languages
-- JavaScript [a little bit]
-- Python
+# Languages I know
+
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Python](https://img.shields.io/badge/python%20-%231435C.svg?&style=for-the-badge&logo=python&logoColor=black)]()
+
 
 # Languages I want to learn/learning
 - C
