@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Languages I know
 
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)]()
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python%20-%214354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 
 
 # Languages I want to learn/learning
