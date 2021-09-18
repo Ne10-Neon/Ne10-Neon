@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 # Languages I want to learn/learning
-- C
+[![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
 - C#
 - C++
 - Java
