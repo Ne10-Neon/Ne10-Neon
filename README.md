@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)]()
 [![Python](https://img.shields.io/badge/python%20-%23143548.svg?&style=for-the-badge&logo=python&logoColor=white)]()
-[![C#](https://img.shields.io/badge/CSharp%20-%23143548.svg?&style=for-the-badge&logo=Csharp&logoColor=blue)]()
+[![C#](https://img.shields.io/badge/CSharp%20-%23143548.svg?&style=for-the-badge&logo=CSharp&logoColor=blue)]()
 
 
 # Languages I want to learn/learning
 [![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
-[![C#](https://img.shields.io/badge/C#%20-%23143548.svg?&style=for-the-badge&logo=CSharp&logoColor=blue)]()
 [![C++](https://img.shields.io/badge/C++%20-%23143548.svg?&style=for-the-badge&logo=Cplusplus&logoColor=green)]()
+[![Java]((https://img.shields.io/badge/Java%20-%23143548.svg?&style=for-the-badge&logo=Java&logoColor=green)]()
