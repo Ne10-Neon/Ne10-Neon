@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/C++%20-%23143548.svg?&style=for-the-badge&logo=Cplusplus&logoColor=green)]()
 
 # Human Languages I want to learn/learning
-- Polish [Polski]
-- German [Deutsch]
-- Italian [Italiano]
+- Polish (Polski)
+- German (Deutsch)
+- Italian (Italiano)
