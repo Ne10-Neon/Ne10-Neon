@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 # Human Languages I know
 - English
-- French
-- Russian
+- French (Française)
+- Russian (Pусский)
 
 # Programming Languages I want to learn/learning
 [![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
