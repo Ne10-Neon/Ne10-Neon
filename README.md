@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 - French
 - Russian
 
-# Languages I want to learn/learning
+# Programming Languages I want to learn/learning
 [![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
 [![C++](https://img.shields.io/badge/C++%20-%23143548.svg?&style=for-the-badge&logo=Cplusplus&logoColor=green)]()
+
+# Human Languages I want to learn/learning
+- Spoken Russian
+- Polish [Polski]
+- German [Deutsch]
+- Italian [Italiano]
