@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 # Programming Languages I know
 
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)]()
-[![HTML](https://img.shields.io/badge/HTML%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=red)]()
 [![Python](https://img.shields.io/badge/python%20-%23143548.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 [![C#](https://img.shields.io/badge/CSharp%20-%2376331.svg?&style=for-the-badge&logo=CSharp&logoColor=purple)]()
 
