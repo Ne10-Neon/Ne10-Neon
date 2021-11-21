@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Stats
 
-[![Neon's github stats](https://github-readme-stats.vercel.app/api?username=NotNeonDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Neon's github stats](https://github-readme-stats.vercel.app/api?username=NotNeonDEV&theme=tokyo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Neon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNeonDEV&theme=dark)
 
