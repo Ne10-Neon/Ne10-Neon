@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 [![C#](https://img.shields.io/badge/CSharp%20-%2376331.svg?&style=for-the-badge&logo=CSharp&logoColor=purple)]()
 
 # Human Languages I know
-- English
+- English (Englisch, Anglais, Aнглийский)
 - French (Française)
 - Russian (Pусский)
+- German (Deutsch)
 
 # Programming Languages I want to learn/learning
 [![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
@@ -39,4 +40,4 @@ Here are some ideas to get you started:
 # Human Languages I want to learn/learning
 - Polish (Polski)
 - German (Deutsch)
-- Italian (Italiano)
+- Russian (Pусский)
