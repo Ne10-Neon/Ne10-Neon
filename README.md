@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # Human Languages I know
 - English (Englisch, Anglais, Aнглийский)
-- French (Française)
+- French (Français)
 - Russian (Pусский)
 - German (Deutsch)
 
