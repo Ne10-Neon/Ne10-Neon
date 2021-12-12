@@ -21,23 +21,16 @@ Here are some ideas to get you started:
 
 ![Neon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNeonDEV&theme=dark)
 
+# Human Languages I know
+- English (Englisch, Anglais)
+- French (Français)
+- German (Deutsch) [Need to learn more]
 
 # Programming Languages I know
 
 [![Python](https://img.shields.io/badge/python%20-%23143548.svg?&style=for-the-badge&logo=python&logoColor=white)]()
 [![C#](https://img.shields.io/badge/CSharp%20-%2376331.svg?&style=for-the-badge&logo=CSharp&logoColor=purple)]()
 
-# Human Languages I know
-- English (Englisch, Anglais, Aнглийский)
-- French (Français)
-- Russian (Pусский)
-- German (Deutsch)
-
 # Programming Languages I want to learn/learning
 [![C](https://img.shields.io/badge/C%20-%23143548.svg?&style=for-the-badge&logo=C&logoColor=purple)]()
 [![C++](https://img.shields.io/badge/C++%20-%23143548.svg?&style=for-the-badge&logo=Cplusplus&logoColor=green)]()
-
-# Human Languages I want to learn/learning
-- Polish (Polski)
-- German (Deutsch)
-- Russian (Pусский)
