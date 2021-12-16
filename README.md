@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Human Languages I know
 - English (Englisch, Anglais)
 - French (Français)
-- German (Deutsch) [Need to learn more]
+- German (Deutsch)
 
 # Programming Languages I know
 
